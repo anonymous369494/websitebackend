@@ -201,7 +201,7 @@ app.delete('/products', (req, res) => {
 });
 // Update CORS to accept requests from your deployed frontend
 app.use(cors({
-  origin: ['shimmering-starburst-72419d.netlify.app', 'https://your-admin-app.netlify.app']
+  origin: ['https://shimmering-starburst-72419d.netlify.app', 'https://your-admin-app.netlify.app']
 }));
 // Add near the top after imports
 const PORT = process.env.PORT || 3010;
