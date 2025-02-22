@@ -192,20 +192,21 @@ app.delete('/products', (req, res) => {
   try {
     products.length = 0;
     nextProductId = 1;
-    // Update CORS to accept requests from your deployed frontend
-    app.use(cors({
-      origin: ['https://your-user-app.netlify.app', 'https://your-admin-app.netlify.app']
-    }));
-    const PORT = process.env.PORT || 3010;
-    app.listen(PORT, () => {
-      console.log(`Server is running on port ${PORT}`);
-    });
     console.log('All products deleted');
     res.status(200).json({ message: 'All products deleted successfully' });
   } catch (error) {
     console.error('Error deleting all products:', error);
     res.status(500).json({ message: 'Failed to delete all products' });
   }
+});
+// Update CORS to accept requests from your deployed frontend
+app.use(cors({
+  origin: ['https://your-user-app.netlify.app', 'https://your-admin-app.netlify.app']
+}));
+// Add near the top after imports
+const PORT = process.env.PORT || 3010;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });
 // Orders array to store orders
 let orders = [];
