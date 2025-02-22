@@ -1,0 +1,8 @@
+{
+    "name": "restaurant-backend",
+    "version": "1.0.0",
+    "main": "src/backend/server.js",
+    "scripts": {
+      "start": "node src/backend/server.js"
+    }
+  }

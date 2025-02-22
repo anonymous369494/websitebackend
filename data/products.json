@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "1",
+    "name": "Aloo Bonda",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "2",
+    "name": "Aloo Gobi Masala",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "3",
+    "name": "Aloo Palak",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "4",
+    "name": "Aval Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "5",
+    "name": "Badhushah",
+    "description": "FREE DELIVERY",
+    "price": 1.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "6",
+    "name": "Baingan Masala",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "7",
+    "name": "Bajji",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "8",
+    "name": "Banana Bread",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "9",
+    "name": "Banana Party's 1PCS",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "10",
+    "name": "Batter IDLY/DOSA",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "11",
+    "name": "Bhindi Masala",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "12",
+    "name": "Bonda",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "13",
+    "name": "BOOST",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "14",
+    "name": "Bovonto",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "15",
+    "name": "Butter Milk",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "16",
+    "name": "Channa Bhatura",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "17",
+    "name": "Channa Masala",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "18",
+    "name": "Chappathi 1PCS",
+    "description": "FREE DELIVERY",
+    "price": 0.05,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "19",
+    "name": "Chappathi 2PCS",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "20",
+    "name": "Chappathi Kuruma",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "21",
+    "name": "Cheese Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "22",
+    "name": "Chilli Bajji",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "23",
+    "name": "Chilly Gobi",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "24",
+    "name": "Chilly Idly",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "25",
+    "name": "Chilly Paneer",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "26",
+    "name": "Chilly Paratha",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "27",
+    "name": "Chocolate Dosa",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "28",
+    "name": "Chutney",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "29",
+    "name": "Coconut Juice",
+    "description": "FREE DELIVERY",
+    "price": 0.35,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "30",
+    "name": "Coconut Milk Murukku",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "31",
+    "name": "Coffee",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "32",
+    "name": "Curd Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "33",
+    "name": "Curd Vada",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "34",
+    "name": "Cutlet",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "35",
+    "name": "Dal Fry",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "36",
+    "name": "Dal Fry HALF",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "37",
+    "name": "Dal Makhani",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "38",
+    "name": "Dal Tadka",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "39",
+    "name": "Elanjil Sweet",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "40",
+    "name": "Family Dosa",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "41",
+    "name": "Festival Ladoo",
+    "description": "FREE DELIVERY",
+    "price": 2.95,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "42",
+    "name": "Flavored Milk 180ML",
+    "description": "FREE DELIVERY",
+    "price": 0.15,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "43",
+    "name": "Fried Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "44",
+    "name": "Fries",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "45",
+    "name": "Ghee Halwa",
+    "description": "FREE DELIVERY",
+    "price": 0.75,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "46",
+    "name": "Ghee Mysurpa",
+    "description": "FREE DELIVERY",
+    "price": 0.75,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "47",
+    "name": "Ghee Mysurpa B/K",
+    "description": "FREE DELIVERY",
+    "price": 1.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "48",
+    "name": "Ghee Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "49",
+    "name": "Ghee Roast",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "50",
+    "name": "Ginger Gobi",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "51",
+    "name": "Gobi 65",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "52",
+    "name": "Gobi 65",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "53",
+    "name": "Gobi Fried Rice",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "54",
+    "name": "Gobi Manchurian",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "55",
+    "name": "Gobi Masala",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "56",
+    "name": "Green Peas Masala",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "57",
+    "name": "HORLICKS",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "58",
+    "name": "Idly 1PCS",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "59",
+    "name": "Idly 2 Vada 1",
+    "description": "FREE DELIVERY",
+    "price": 0.4,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "60",
+    "name": "Idly 65",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "61",
+    "name": "Idly Manchurian",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "62",
+    "name": "Idly Sambar",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "63",
+    "name": "Idly Vadacury",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "64",
+    "name": "Jaggery Milk Khova",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "65",
+    "name": "Jamun 50PCS",
+    "description": "FREE DELIVERY",
+    "price": 10,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "66",
+    "name": "Juice 250 ML",
+    "description": "FREE DELIVERY",
+    "price": 0.15,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "67",
+    "name": "Kal Murukku",
+    "description": "FREE DELIVERY",
+    "price": 1.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "68",
+    "name": "Kapsa Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "69",
+    "name": "Kaseri",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "70",
+    "name": "Kesari",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "71",
+    "name": "Kesari 1kg",
+    "description": "FREE DELIVERY",
+    "price": 4,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "72",
+    "name": "Kitchadi",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "73",
+    "name": "Kizhi Paratha",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "74",
+    "name": "Kolkata",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "75",
+    "name": "Kuruma BIG",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "76",
+    "name": "Lemon Juice",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "77",
+    "name": "Lemon Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "78",
+    "name": "Lemon Tea",
+    "description": "FREE DELIVERY",
+    "price": 0.15,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "79",
+    "name": "Lemonsoda",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "80",
+    "name": "Manapparal Murukku",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "81",
+    "name": "Mango Juice",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "82",
+    "name": "Masala Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "83",
+    "name": "Masala Tea",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "84",
+    "name": "Mathulam Juice",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "85",
+    "name": "Meethi Lassi",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "86",
+    "name": "Milk Khova",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "87",
+    "name": "Mini Dinner",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "88",
+    "name": "Mini Dinner PARCEL",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "89",
+    "name": "Mini Lunch",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "90",
+    "name": "Mini Lunch PARCEL",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "91",
+    "name": "Mini Tiffin",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "92",
+    "name": "Mini Tiffin PARCEL",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "93",
+    "name": "MMC SPL GOPI FRIED RICE",
+    "description": "FREE DELIVERY",
+    "price": 1.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "94",
+    "name": "Mountain Dew",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "95",
+    "name": "Mudakathan Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "96",
+    "name": "Mushroom 65",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "97",
+    "name": "Mushroom Manchurian",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "98",
+    "name": "Mushroom Masala",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "99",
+    "name": "Mushroom Masala Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "100",
+    "name": "Mysore Masala Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "101",
+    "name": "Mysore Sada Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "102",
+    "name": "Nannari Sarabth",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "103",
+    "name": "Nellai Mix Sweet",
+    "description": "FREE DELIVERY",
+    "price": 3.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "104",
+    "name": "Nellai Mixture",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "105",
+    "name": "Nellai Mixture 1/2 KG",
+    "description": "FREE DELIVERY",
+    "price": 1.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "106",
+    "name": "Noodles Dosa",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "107",
+    "name": "Nool Paratha",
+    "description": "FREE DELIVERY",
+    "price": 0.15,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "108",
+    "name": "Nool Paratha Kuruma 2PCS",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "109",
+    "name": "Ola Pakkoda",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "110",
+    "name": "Onion Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "111",
+    "name": "Onion Podi Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "112",
+    "name": "Onion Podi Dosa TSTE OF STH INDIA",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "113",
+    "name": "Onion Podi Uthappam",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "114",
+    "name": "Onion Rava Dosa",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "115",
+    "name": "Onion Uthappam",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "116",
+    "name": "Pakkoda PLATE",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "117",
+    "name": "Pakoda",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "118",
+    "name": "Palak Mutter",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "119",
+    "name": "Palak Paneer",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "120",
+    "name": "Palam Pori",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "121",
+    "name": "Palm Mysore Pakku",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "122",
+    "name": "Paneer 65",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "123",
+    "name": "Paneer Butter Masala",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "124",
+    "name": "Paneer Butter Masala HALF",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "125",
+    "name": "Paneer Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "126",
+    "name": "Paneer Fried Rice",
+    "description": "FREE DELIVERY",
+    "price": 1.4,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "127",
+    "name": "Paneer Manchurian",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "128",
+    "name": "Paneer Tikka Masala",
+    "description": "FREE DELIVERY",
+    "price": 1.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "129",
+    "name": "Panjabi Samosa",
+    "description": "FREE DELIVERY",
+    "price": 0.15,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "130",
+    "name": "Panner Masala Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "131",
+    "name": "Paratha 1PCS",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "132",
+    "name": "Paratha Kuruma",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "133",
+    "name": "Paratha Kuruma 1PC",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "134",
+    "name": "Parupu Vada",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "135",
+    "name": "Peanut Masala",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "136",
+    "name": "Pepsi",
+    "description": "FREE DELIVERY",
+    "price": 0.25,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "137",
+    "name": "Pesaruttu Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "138",
+    "name": "Plain Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "139",
+    "name": "Plain Rava Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "140",
+    "name": "Podi Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "141",
+    "name": "Podi Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "142",
+    "name": "Pongal",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "143",
+    "name": "Pooli",
+    "description": "FREE DELIVERY",
+    "price": 0.4,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "144",
+    "name": "Poori Kuruma",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "145",
+    "name": "Poori Masala",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "146",
+    "name": "Potato Chips",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "147",
+    "name": "Pudhina Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "148",
+    "name": "Punjabi/Vegetable SAMOSA",
+    "description": "FREE DELIVERY",
+    "price": 0.15,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "149",
+    "name": "Ragi Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "150",
+    "name": "Raitha",
+    "description": "FREE DELIVERY",
+    "price": 5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "151",
+    "name": "Sambar",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "152",
+    "name": "Sambar Idly",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "153",
+    "name": "Sambar Idly TST OF STH INDIA",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "154",
+    "name": "Sambar Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "155",
+    "name": "Sambar Vada",
+    "description": "FREE DELIVERY",
+    "price": 0.4,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "156",
+    "name": "Sambaram",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "157",
+    "name": "Samosa B.K",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "158",
+    "name": "Samosa SMALL",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "159",
+    "name": "Schezwan Fried Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "160",
+    "name": "Set Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.6,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "161",
+    "name": "Small Onion Murukku",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "162",
+    "name": "Soup",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "163",
+    "name": "SPECIAL BATTER",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "164",
+    "name": "Special Dosa OFFER",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "165",
+    "name": "Special Ladoo",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "166",
+    "name": "Special Rice",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "167",
+    "name": "Sugin",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "168",
+    "name": "Sulaimani",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "169",
+    "name": "Sweet",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "170",
+    "name": "Sweet Corn Soup",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "171",
+    "name": "Sweet Lassi",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "172",
+    "name": "Thatti Vada",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "173",
+    "name": "Tomato Onion Uthappam",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "174",
+    "name": "Tomato Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "175",
+    "name": "Vada",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "176",
+    "name": "Vada Malai 101 NOS",
+    "description": "FREE DELIVERY",
+    "price": 10,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "177",
+    "name": "Vada Malai 51 NOS",
+    "description": "FREE DELIVERY",
+    "price": 5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "178",
+    "name": "Vada MASAL / MEDU",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "179",
+    "name": "Vada Sambar",
+    "description": "FREE DELIVERY",
+    "price": 0.3,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "180",
+    "name": "Vadakari (BIG)",
+    "description": "FREE DELIVERY",
+    "price": 0.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "181",
+    "name": "Variety Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "182",
+    "name": "Vazhaipoo Dosai",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "183",
+    "name": "Veechu Paratha",
+    "description": "FREE DELIVERY",
+    "price": 0.15,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "184",
+    "name": "Veg Biriyani",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "185",
+    "name": "Veg Clear Soup",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "186",
+    "name": "Veg Cutlet",
+    "description": "FREE DELIVERY",
+    "price": 0.25,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "187",
+    "name": "Veg Kapsa Rice",
+    "description": "FREE DELIVERY",
+    "price": 0.9,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "188",
+    "name": "Veg Samosa",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "189",
+    "name": "Veg Soup",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "190",
+    "name": "Veg Spring Roll",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "191",
+    "name": "Vegetable Biriyani",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "192",
+    "name": "Vegetable Dosa",
+    "description": "FREE DELIVERY",
+    "price": 0.8,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "193",
+    "name": "Vegetable Fried Rice",
+    "description": "FREE DELIVERY",
+    "price": 1.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "194",
+    "name": "Vegetable Mixed",
+    "description": "FREE DELIVERY",
+    "price": 1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "195",
+    "name": "Water Bottle BIG",
+    "description": "FREE DELIVERY",
+    "price": 0.2,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "196",
+    "name": "Water Bottle Case",
+    "description": "FREE DELIVERY",
+    "price": 1.5,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "197",
+    "name": "Water bottle SMALL",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "198",
+    "name": "Wheat Paratha Set",
+    "description": "FREE DELIVERY",
+    "price": 0.7,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "199",
+    "name": "Yellow Labone",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "200",
+    "name": "Yoghurt",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  },
+  {
+    "id": "201",
+    "name": "Zeera Lassi",
+    "description": "FREE DELIVERY",
+    "price": 0.1,
+    "image": "https://media-hosting.imagekit.io//80571932787444f5/image-removebg-preview.png?Expires=1834764131&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MJm7X183bkJDnZ1Ah6f-1VCvUTSdNxIJ7myQ3XhYNcw56zdnv8vuUY6CYdfnD14qjZGlp0ovNLQqEiq6UUWDcOfLI0fMxixm3buo33l7Td5mc9Ut-qD9nwWePmACWIveSJGi9AoW66o8lrhdl9GmRjddHdIg4Mybmkhj4O2eulvbWL1RzPgl6gVcT3AVeaAgsQHE2-809k6Tb8qko05A4S1S~YDUwhX1Ii5U2mrcRxmSpw4z2AyZ8FrFhlJZfxfj8NuDO2MrBWyPjSe~8Vze-zQy-NA2u2PyCBD-4K4NeploOhhR7uo4w-TRgU-XaHl~Zpps0~iTXBfONo4O6kCCQg__"
+  }
+]
